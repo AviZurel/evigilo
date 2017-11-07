@@ -48,7 +48,7 @@ If you have plugin suggestion, feel free to open a PR/issue.
 
  
 ## Installation and running
-###Install Linux
+#### Install Linux
 `./install.sh`
 ### Running the API service
 
